@@ -1,0 +1,7 @@
+Criterion,Labs / Evidence,Status
+C1 Knowledge,"Labs 02,03,05,07,11,12 all integrated in one pipeline",FULFILLED
+C2 Analysis,"PDI, PSNR, SSIM, Confusion Matrix, Precision, Recall",FULFILLED
+C3 Conflicts,Opening k=5 chosen via quantitative trade-off curve (Cell 11),FULFILLED
+C4 Familiarity,CLAHE + broad HSV range handles variable lighting and backgrounds,FULFILLED
+C5 Standards,Plant Disease Index (PDI) standard agronomic severity metric,FULFILLED
+C6 Context,"Yellowing H=15-40, Browning H=5-18, Blight H=0-12 crop-specific",FULFILLED
