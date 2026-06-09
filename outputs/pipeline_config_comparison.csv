@@ -1,0 +1,6 @@
+Configuration,Mean PDI (%),Mean PSNR (dB),Mean SSIM,Mean Lesions
+Config 1 (No CLAHE),0.58,100.0,1.0,1.1
+Config 2 (CLAHE only),0.57,30.61,0.9927,1.1
+Config 3 (CLAHE+k=3),0.59,30.61,0.9927,1.1
+Config 4 (CLAHE+k=5) BEST,0.57,30.61,0.9927,1.1
+Config 5 (CLAHE+k=11),0.55,30.61,0.9927,1.0
